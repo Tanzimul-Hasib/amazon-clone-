@@ -14,16 +14,23 @@ function Home() {
         <div className="home__row">
           <Product
             id="1"
-            title="The lean Startup"
+            title="Find your ideal TV            "
             price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/31jBba7+ySL.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_TV_2X._SY304_CB432517900_.jpg"
             rating={5}
           />
           <Product
             id="2"
-            title="AmazonBasics Premium 48Gb"
+            title="LG OLED55CXPUA Alexa Built-In CX 55"
             price={13}
-            image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"
+            image="https://m.media-amazon.com/images/I/A1LDFBeKebL._AC_UL320_.jpg"
+            rating={5}
+          />
+          <Product
+            id="2"
+            title="LG OLED55CXPUA Alexa Built-In CX 55"
+            price={13}
+            image="https://m.media-amazon.com/images/I/A1LDFBeKebL._AC_UL320_.jpg"
             rating={5}
           />
         </div>
@@ -35,11 +42,29 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_PC_1x._SY304_CB431800965_.jpg"
             rating={5}
           />
-          <Product />
-          <Product />
+          <Product
+            id="2"
+            title="LG OLED55CXPUA Alexa Built-In CX 55"
+            price={13}
+            image="https://m.media-amazon.com/images/I/A1LDFBeKebL._AC_UL320_.jpg"
+            rating={5}
+          />
+          <Product
+            id="2"
+            title="LG OLED55CXPUA Alexa Built-In CX 55"
+            price={13}
+            image="https://m.media-amazon.com/images/I/A1LDFBeKebL._AC_UL320_.jpg"
+            rating={5}
+          />
         </div>
         <div className="home__row">
-          <Product />
+          <Product
+            id="2"
+            title="LG OLED55CXPUA Alexa Built-In CX 55"
+            price={13}
+            image="https://m.media-amazon.com/images/I/A1LDFBeKebL._AC_UL320_.jpg"
+            rating={5}
+          />
         </div>
       </div>
     </div>
